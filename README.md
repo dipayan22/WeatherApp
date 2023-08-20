@@ -11,7 +11,7 @@ It will show the given below features
 
 
 To use this Weather app follow the steps 
-1. Visit the webapp : [https://weather-app-cbwd.onrender.com/]
+1. Visit the webapp : [https://weather-app-cbwd.onrender.com]
 2. Enter the location in the provided test input
 3. click the "submit" button
 4. Receive the weather condition data about the location
